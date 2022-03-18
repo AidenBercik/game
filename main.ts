@@ -17,3 +17,4 @@ let mySprite = sprites.create(img`
     . . . . . . . . . . . . . . . . 
     `, SpriteKind.Player)
 controller.moveSprite(mySprite)
+game.splash("Aiden sucks at team leader")
